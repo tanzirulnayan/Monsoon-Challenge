@@ -1,0 +1,2 @@
+# Monsoon-Challenge
+Monsoon Challenge is an adventure game where a person prevents himself from falling into open manholes. The manholes are under water in the streets because of incessant rain. The person has to jump to avoid the open manholes. Game overs when the person fall into an open manhole. There will be relevant background like buildings, cars, sun, clouds, trees, people, etc. The game is developed in C++ using OpenGL.
